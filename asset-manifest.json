@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Digital231/Dovanos.git/static/css/main.0a35a76c.css",
+    "main.js": "/Digital231/Dovanos.git/static/js/main.563c84fa.js",
+    "index.html": "/Digital231/Dovanos.git/index.html",
+    "main.0a35a76c.css.map": "/Digital231/Dovanos.git/static/css/main.0a35a76c.css.map",
+    "main.563c84fa.js.map": "/Digital231/Dovanos.git/static/js/main.563c84fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a35a76c.css",
+    "static/js/main.563c84fa.js"
+  ]
+}
